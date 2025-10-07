@@ -1,0 +1,19 @@
+*{
+    outline:2px solid rebeccapurple;
+}
+
+h1{
+    padding: 15px;
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+    color:blueviolet;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    display: grid;
+}
