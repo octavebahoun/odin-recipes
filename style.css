@@ -26,3 +26,7 @@ section{
     padding: 15px;
     margin: 15px;
 }
+
+.galerie{
+    display: flex;
+}
